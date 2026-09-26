@@ -1,6 +1,6 @@
 {
     "latestVersion": "1.37",
-    "mandatoryUpdate": false,
+    "mandatoryUpdate": true,
     "dataVersion": 1,
     "playerBaseHealth": 100,
     "playerBaseMana": 50,
