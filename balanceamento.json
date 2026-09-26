@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "playerBaseHealth": 100,
+    "playerBaseMana": 50,
+    "xpMultiplier": 1.0,
+    "goldDropRate": 5
+}
