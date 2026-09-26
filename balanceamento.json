@@ -1,5 +1,7 @@
 {
-    "version": 1,
+    "latestVersion": "1.0.0",
+    "mandatoryUpdate": false,
+    "dataVersion": 1,
     "playerBaseHealth": 100,
     "playerBaseMana": 50,
     "xpMultiplier": 1.0,
